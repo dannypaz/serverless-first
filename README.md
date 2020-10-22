@@ -17,6 +17,7 @@ Things I noted:
 3. some deps are giving us errors with `npm audit`
 4. Looks like this is using older syntax for react? My recent experience deals with creating classes/components and handling state through props/state w/ redux.
 5. Tests wont run and looks like others were having issues via github. Have other users gotten these tests to work?
+6. Situation of search/replace is not ideal, but I liked the idea of having search be prominent on this screen. There is probably an addition that can be made for an Actions bar that allows settings like search/replace or marking different notes w/ information
 
 Other things i'd like to work on:
 1. linting or running `npm test` before being able to commit changes/merge changes
